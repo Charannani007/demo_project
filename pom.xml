@@ -16,7 +16,7 @@
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
         <app.runtime>4.4.0</app.runtime>
-        <mule.maven.plugin.version>4.4.0</mule.maven.plugin.version>
+        <mule.maven.plugin.version>4.3.2</mule.maven.plugin.version>
         <corporate-artifact-repository-url>https://maven.anypoint.mulesoft.com/api/v3/organizations/09bb754b-64d7-4f61-9a1a-79e3edf235eb/maven</corporate-artifact-repository-url>
     </properties>
 
