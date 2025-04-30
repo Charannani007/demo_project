@@ -39,7 +39,7 @@
                         <connectedAppClientId>${connectedAppClientId}</connectedAppClientId>
                         <connectedAppClientSecret>${connectedAppClientSecret}</connectedAppClientSecret>
                         <connectedAppGrantType>${grant_type}</connectedAppGrantType>
-                        <applicationName>test2-app</applicationName>
+                        <applicationName>${cloudhub.name}</applicationName>
                         <artifact>${mule.artifact}</artifact>
                         <businessGroup>${deploy.businessGroup}</businessGroup>
                         <environment>${deploy.environment}</environment>
